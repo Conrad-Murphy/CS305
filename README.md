@@ -6,6 +6,8 @@ Project CS305 is a project whose lofty, inspiring goal is to connect NAU student
 
 ## Modifications from forks
 Not all modifications from forks will be accepted but at least one modification in a fork will be allowed. May the odds be ever in your favor.
+# Joke of the day
+I'm so broke, I couldn't afford to pay attention
 
 
 Licensed under the [MIT License.](https://opensource.org/licenses/MIT) Copyright 2022 by Conrad Murphy.
